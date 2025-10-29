@@ -1,0 +1,7 @@
+{
+  "name": "Japanese Language Tutor AI",
+  "description": "An AI-powered chatbot to help you learn, practice, and memorize Japanese. Ask questions about grammar, vocabulary, hiragana, katakana, and kanji.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
